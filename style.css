@@ -1,0 +1,82 @@
+*{margin:0px; padding:0px	
+}
+.nov{background-color:pink}
+.nov ul{}
+.nov ul li {list-style-type:none}
+.nov ul li a {text-decoration:none; float:left; padding:10px 30px;}
+.nov ul li a:hover {}
+ ul li .active a{ background-color:green; color:blue}
+
+
+
+img{width:100%;height:200px; background-position:cover
+}
+
+
+
+.online{float:right;background-color:Yellow;width:900px; text-align:center;
+color:blue;height:80px
+
+}
+.online h1{font-size:30px}
+.online h4{font-size:20px}
+.put{height: 95px;
+    width: 460px;
+    text-align: center;
+    margin-top: -20px;
+}
+.put input{margin-top:25px;padding:10px; }
+
+.jaba {background-color:red; margin-top:2px; height:80px; margin-top:1px
+
+}
+
+
+
+
+.pic1{ width:150px; height:80px; 
+}
+.pro1{ width:150px; height:150px; text-align:center; float:left;padding:5px 20px ;color:tomato;
+}
+.pro1 a {text-decoration:none;color:#2196f3}
+
+
+
+
+.pic2{ width:150px; height:80px;
+}
+.pro2{ width:150px; height:150px; text-align:center;float:left;padding:5px 20px ;color:tomato;
+}
+.pro2 a {text-decoration:none;color:#2196f3}
+
+.pic3{ width:150px; height:80px
+}
+.pro3{ width:150px; height:150px; text-align:center;float:left;padding:5px 20px ;color:tomato;
+}
+.pro3 a {text-decoration:none;color:#2196f3}
+
+.pic4{ width:150px; height:80px
+}
+.pro4{ width:150px; height:150px; text-align:center;float:left;padding:5px 20px ;color:tomato;
+}
+.pro4 a {text-decoration:none;color:#2196f3}
+
+.pic5{ width:150px; height:80px
+}
+.pro5{ width:150px; height:150px; text-align:center;float:left;padding:5px 20px ; color:tomato;color:tomato;
+}
+.pro5 a {text-decoration:none;color:#2196f3}
+
+.pic6{ width:150px; height:80px
+}
+.pro6{ width:150px; height:150px; text-align:center; float:left;padding:5px 20px ;color:tomato;
+}
+.pro6 a {text-decoration:none;color:#2196f3}
+
+.pic7{ width:150px; height:80px
+}
+.pro7{ width:150px; height:150px; text-align:center; float:left;padding:5px 20px ;color:tomato;
+}
+.pro7 a {text-decoration:none;color:#2196f3}
+
+a:hover{ background-color:black; color:white}
